@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Junk_Email__c</fullName>
+    <description>Send all the things people barely want to read from us here.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Send all the things people barely want to read from us here.</inlineHelpText>
+    <label>Junk Email</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Email</type>
+    <unique>false</unique>
+</CustomField>
