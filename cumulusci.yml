@@ -1,0 +1,7 @@
+project:
+  name: devops-demo-01-business-specific-miscellany
+  package:
+    name: DevOps Demo 01 - Business-Specific Miscellany
+  git:
+    default_branch: 'main'
+  source_format: sfdx
