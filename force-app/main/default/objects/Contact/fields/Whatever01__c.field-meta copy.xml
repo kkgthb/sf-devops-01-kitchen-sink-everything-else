@@ -7,6 +7,6 @@
     <label>Whatever 01</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
-    <type>text</type>
+    <type>Email</type>
     <unique>false</unique>
 </CustomField>
